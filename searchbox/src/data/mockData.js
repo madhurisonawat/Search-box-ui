@@ -1,0 +1,58 @@
+export const results = [
+  {
+    id: 1,
+    image: "https://picsum.photos/seed/picsum1/400/300",
+    title: "UI8 Design",
+    subtitle: "ui8.net",
+    category: "Vectors",
+  },
+  {
+    id: 2,
+    image: "https://picsum.photos/seed/picsum2/400/300",
+    title: "Abstract Shapes",
+    subtitle: "craftwork.design",
+    category: "Photos",
+  },
+  {
+    id: 3,
+    image: "https://picsum.photos/seed/picsum3/400/300",
+    title: "Modern Fonts Pack",
+    subtitle: "interfacemarket.com",
+    category: "Fonts",
+  },
+  {
+    id: 4,
+    image: "https://picsum.photos/seed/picsum4/400/300",
+    title: "Line Icons Set",
+    subtitle: "- C R E M E -",
+    category: "Icons",
+  },
+  {
+    id: 5,
+    image: "https://picsum.photos/seed/picsum5/400/300",
+    title: "Gradient Palettes",
+    subtitle: "ls.graphics",
+    category: "Vectors",
+  },
+  {
+    id: 6,
+    image: "https://picsum.photos/seed/picsum6/400/300",
+    title: "Nature Photography",
+    subtitle: "unsplash.com",
+    category: "Photos",
+  },
+  {
+    id: 7,
+    image: "https://picsum.photos/seed/picsum7/400/300",
+    title: "3D Illustrations",
+    subtitle: "salute.com",
+    category: "Vectors",
+  },
+  {
+    id: 8,
+    image: "https://picsum.photos/seed/picsum8/400/300",
+    title: "Minimalist Icons",
+    subtitle: "Feather Icons",
+    category: "Icons",
+  },
+];
